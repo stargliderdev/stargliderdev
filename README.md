@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stargliderdev
-- 👀 I’m interested in Python, Postgresql, PyQt5
-- 🌱 I’m currently learning Python and Postgresl
+- 👀 I’m interested in Python, Postgresql, PyQt5, SQLite
 - 💞️ I’m looking to collaborate on a scape plan
 - 📫 How to reach me thru mail.
 
